@@ -1,2 +1,2 @@
 # HTML-base
-Base HTML template
+Base HTML template, designed for valid html template & for github pages' use...
